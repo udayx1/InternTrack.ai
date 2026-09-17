@@ -1,0 +1,28 @@
+{
+  "name": "interntrack-ai-server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "InternTrack.ai — Stage 2 backend (Node.js + Express + MongoDB + Gemini)",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "seed": "node src/utils/seed.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.21.0",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.7.0",
+    "multer": "^2.4.0",
+    "openai": "^7.16.0",
+    "pdf-parse": "^1.1.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
