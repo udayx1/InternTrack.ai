@@ -14,7 +14,7 @@ Built for **Hack2Ignite** — a national-level hackathon.
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](#)
 [![Gemini](https://img.shields.io/badge/AI-Gemini_API-8E75B2?logo=googlegemini&logoColor=white)](#)
 
-[Live Demo](#-live-demo) · [Demo Video](#-demo-video) · [Features](#-features) · [Architecture](#-architecture) · [Setup](#-getting-started) · [Team](#-team)
+[Live Demo](https://interntrackai.vercel.app/) · [Demo Video](https://youtu.be/NixWe7PzwPw) · [Features](#-features) · [Architecture](#-architecture) · [Setup](#-getting-started) · [Team](#-team)
 
 </div>
 
@@ -45,11 +45,11 @@ Everything is backed by a real account, a real database, and real AI — not moc
 
 ## 🎥 Demo Video
 
-> 📹 *`[Add your demo video link here — YouTube/Drive]`*
+> 📹 *[Demo Video]*(https://youtu.be/NixWe7PzwPw)
 
 ## 🌐 Live Demo
 
-> 🔗 *`[Add your deployed frontend link here]`*
+> 🔗 *[Live Demo]*(https://interntrackai.vercel.app/)
 > **Demo login:** `aditi.sharma@ghristu.edu.in` / `password123` *(seeded via `npm run seed`)*
 
 ---
@@ -180,10 +180,11 @@ npm run dev                     # → http://localhost:5173
 
 ## 👥 Team
 
-| Name | Role | GitHub |
+| Name | Role |
 |---|---|---|
-| `[Your Name]` | `[Full Stack / Frontend / Backend]` | `[@handle]` |
-| `[Teammate]` | `[Role]` | `[@handle]` |
+| `Uday Shinde` | `[Backend and AI Integration]` |
+| `Shivani Mourya` | `[Frontend]` |
+| `Pratiksha Bendhbar` | `[Database & Documentations]` |
 
 ## 🏆 Built For
 
