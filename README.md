@@ -178,17 +178,6 @@ npm run dev                     # → http://localhost:5173
 
 ---
 
-## 👥 Team
-
-| Name | Role |
-|---|---|---|
-| `Uday Shinde` | `[Backend and AI Integration]` |
-| `Shivani Mourya` | `[Frontend]` |
-| `Pratiksha Bendhbar` | `[Database & Documentations]` |
-
-## 🏆 Built For
-
-**Hack2Ignite** — a national-level hackathon.
 
 ## 🤝 AI Usage Disclosure
 
